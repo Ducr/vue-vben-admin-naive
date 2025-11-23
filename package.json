@@ -90,7 +90,7 @@
     "vite": "^7.1.2",
     "vite-plugin-html": "catalog:",
     "vitest": "^3.2.4",
-    "vue-tsc": "2.2.10"
+    "vue-tsc": "3.1.5"
   },
   "packageManager": "pnpm@10.14.0"
 }
