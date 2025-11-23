@@ -145,7 +145,7 @@ catalog:
   reka-ui: ^2.6.0
   resolve.exports: ^2.0.3
   rimraf: ^6.0.1
-  rollup: ^4.44.1
+  rollup: ^4.53.3
   rollup-plugin-visualizer: ^5.14.0
   sass: ^1.89.2
   secure-ls: ^2.0.0

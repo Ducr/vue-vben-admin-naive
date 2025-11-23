@@ -352,7 +352,7 @@ catalogs:
       specifier: ^6.0.1
       version: 6.1.2
     rollup:
-      specifier: ^4.44.1
+      specifier: ^4.53.3
       version: 4.53.3
     rollup-plugin-visualizer:
       specifier: ^5.14.0
