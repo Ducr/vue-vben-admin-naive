@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://github.com/anncwb/vue-vben-admin">
+  <a href="https://github.com/Ducr/vue-vben-admin-naive">
     <img alt="VbenAdmin Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
   </a>
   <br>
   <br>
 
-[![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/Ducr/vue-vben-admin-naive.svg)](LICENSE)
 
-  <h1>Vue Vben Admin</h1>
+  <h1>Vue Vben Admin Naive</h1>
 </div>
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vbenjs_vue-vben-admin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vbenjs_vue-vben-admin) ![codeql](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml/badge.svg) ![build](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml/badge.svg) ![ci](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml/badge.svg) ![deploy](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml/badge.svg)
@@ -32,7 +32,7 @@ Vue Vben Admin 是 Vue Vben Admin 的升级版本。作为一个免费开源的�
 
 ## 预览
 
-- [Vben Admin](https://vben.pro/) - 完整版中文站点
+- [Vue Vben Admin Naive](https://ducrong.com/vue-vben-admin-naive) - 完整版站点
 
 测试账号：vben/123456
 
@@ -46,24 +46,24 @@ Vue Vben Admin 是 Vue Vben Admin 的升级版本。作为一个免费开源的�
 
 在 Gitpod（适用于 GitHub 的免费在线开发环境）中打开项目，并立即开始编码。
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vbenjs/vue-vben-admin)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Ducr/vue-vben-admin-naive)
 
 ## 文档
 
-[文档地址](https://doc.vben.pro/)
+[文档地址](https://ducrong.com/vue-vben-admin-naive/docs)
 
 ## 安装使用
 
 1. 获取项目代码
 
 ```bash
-git clone https://github.com/vbenjs/vue-vben-admin.git
+git clone https://github.com/Ducr/vue-vben-admin-naive.git
 ```
 
 2. 安装依赖
 
 ```bash
-cd vue-vben-admin
+cd vue-vben-admin-naive
 npm i -g corepack
 pnpm install
 ```
@@ -82,11 +82,11 @@ pnpm build
 
 ## 更新日志
 
-[CHANGELOG](https://github.com/vbenjs/vue-vben-admin/releases)
+[CHANGELOG](https://github.com/Ducr/vue-vben-admin-naive/releases)
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/anncwb/vue-vben-admin/issues/new/choose) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/Ducr/vue-vben-admin-naive/issues/new/choose) 或者提交一个 Pull Request。
 
 **Pull Request 流程：**
 
@@ -124,11 +124,11 @@ pnpm build
 
 ## 维护者
 
-[@Vben](https://github.com/anncwb)
+[@Ducr](https://github.com/Ducr)
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vbenjs/vue-vben-admin&type=Date)](https://star-history.com/#vbenjs/vue-vben-admin&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/vue-vben-admin-naive&type=Date)](https://star-history.com/#Ducr/vue-vben-admin-naive&Date)
 
 ## 捐赠
 
@@ -140,17 +140,17 @@ pnpm build
 
 ## 贡献者
 
-<a href="https://openomy.app/github/vbenjs/vue-vben-admin" target="_blank" style="display: block; width: 100%;" align="center">
-  <img src="https://openomy.app/svg?repo=vbenjs/vue-vben-admin&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
+<a href="https://openomy.app/github/Ducr/vue-vben-admin-naive" target="_blank" style="display: block; width: 100%;" align="center">
+  <img src="https://openomy.app/svg?repo=Ducr/vue-vben-admin-naive&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
  </a>
 
-<a href="https://github.com/vbenjs/vue-vben-admin/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=vbenjs/vue-vben-admin" />
+<a href="https://github.com/Ducr/vue-vben-admin-naive/graphs/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=Ducr/vue-vben-admin-naive" />
 </a>
 
 ## Discord
 
-- [Github Discussions](https://github.com/anncwb/vue-vben-admin/discussions)
+- [Github Discussions](https://github.com/Ducr/vue-vben-admin-naive/discussions)
 
 ## 许可证
 

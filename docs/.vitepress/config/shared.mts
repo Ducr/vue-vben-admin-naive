@@ -44,12 +44,12 @@ export const shared = defineConfig({
       },
       provider: 'local',
     },
-    siteTitle: 'Vben Admin',
+    siteTitle: 'Vue Vben Admin Naive',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vbenjs/vue-vben-admin' },
+      { icon: 'github', link: 'https://github.com/Ducr/vue-vben-admin-naive' },
     ],
   },
-  title: 'Vben Admin',
+  title: 'Vue Vben Admin Naive',
   vite: {
     build: {
       chunkSizeWarningLimit: Infinity,
@@ -75,9 +75,9 @@ export const shared = defineConfig({
       GitChangelog({
         mapAuthors: [
           {
-            mapByNameAliases: ['Vben'],
-            name: 'vben',
-            username: 'anncwb',
+            mapByNameAliases: ['Ducr'],
+            name: 'Ducr',
+            username: 'Ducr',
           },
           {
             name: 'vince',
@@ -88,7 +88,7 @@ export const shared = defineConfig({
             username: 'likui628',
           },
         ],
-        repoURL: () => 'https://github.com/vbenjs/vue-vben-admin',
+        repoURL: () => 'https://github.com/Ducr/vue-vben-admin-naive',
       }),
       GitChangelogMarkdownSection(),
       viteArchiverPlugin({ outputDir: '.vitepress' }),
@@ -111,7 +111,7 @@ export const shared = defineConfig({
 
 function head(): HeadConfig[] {
   return [
-    ['meta', { content: 'Vbenjs Team', name: 'author' }],
+    ['meta', { content: 'Ducr', name: 'author' }],
     [
       'meta',
       {
@@ -158,7 +158,7 @@ function pwa(): PwaOptions {
         },
       ],
       id: '/',
-      name: 'Vben Admin Doc',
+      name: 'Vue Vben Admin Naive Doc',
       short_name: 'vben_admin_doc',
       theme_color: '#ffffff',
     },

@@ -4,25 +4,25 @@ layout: home
 sidebar: false
 
 hero:
-  name: Vben Admin
+  name: Vue Vben Admin Naive
   text: 企业级管理系统框架
   tagline: 全新升级，开箱即用，简单高效
   image:
     src: https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp
-    alt: Vben Admin
+    alt: Vue Vben Admin Naive
   actions:
     - theme: brand
       text: 快速开始 ->
       link: /guide/introduction/vben
     - theme: alt
       text: 在线预览
-      link: https://www.vben.pro
+      link: https://ducrong.com/vue-vben-admin-naive
     - theme: alt
       text: 在 GitHub 查看
-      link: https://github.com/vbenjs/vue-vben-admin
+      link: https://github.com/Ducr/vue-vben-admin-naive
     - theme: alt
       text: DeepWiki 文档
-      link: https://deepwiki.com/vbenjs/vue-vben-admin
+      link: https://deepwiki.com/Ducr/vue-vben-admin-naive
 
 features:
   - icon: 🚀
@@ -91,7 +91,7 @@ const members = [
     title: '创建者',
     desc: 'Vben Admin以及相关生态的作者，负责项目的整体开发。',
     links: [
-      { icon: 'github', link: 'https://github.com/anncwb' },
+      { icon: 'github', link: 'https://github.com/Ducr' },
     ]
   },
 ]
