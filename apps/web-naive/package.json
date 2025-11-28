@@ -45,5 +45,8 @@
     "pinia": "catalog:",
     "vue": "catalog:",
     "vue-router": "catalog:"
+  },
+  "devDependencies": {
+    "cssnano": "catalog:"
   }
 }
